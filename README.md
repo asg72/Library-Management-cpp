@@ -202,7 +202,6 @@ getline(cin, title);  // Handle spaces in titles
 - [ ] ⏰ Due date management
 - [ ] 📧 Notification system
 
-## 🤝 Contributing
 
 <div align="center">
 
